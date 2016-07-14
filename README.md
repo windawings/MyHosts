@@ -3,10 +3,10 @@
 老D hosts(2016-07-03 update) (同时采用了老D的windows替换脚本)
 http://laod.cn/hosts/2016-google-hosts.html
 
-lennylxx ipv6-hosts(2016-6-28 update) 
+lennylxx ipv6-hosts(2016-6-28 update)
 https://github.com/lennylxx/ipv6-hosts
 
-liuker0x007 hosts(2016-07-13 update) 
+liuker0x007 hosts(2016-07-13 update)
 https://github.com/liuker0x007/hosts
 
 其他
@@ -22,3 +22,8 @@ iPhone(iOS)系统hosts跟Linux Mac一样位于 /etc/hosts
 Linux系统hosts位于 /etc/hosts
 
 Surge配置文件测试中……
+屏蔽广告数据来自：
+lhie1 Surge(2015-07-13 13:36 update)
+https://github.com/lhie1/Surge
+
+对以上贡献数据源的作者表示感谢！
