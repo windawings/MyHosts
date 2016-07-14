@@ -20,3 +20,5 @@ Android(安卓)系统hosts位于 /system/etc/hosts
 Mac(苹果电脑)统hosts跟Linux一样位于 /etc/hosts
 iPhone(iOS)系统hosts跟Linux Mac一样位于 /etc/hosts
 Linux系统hosts位于 /etc/hosts
+
+Surge配置文件测试中……
