@@ -1,6 +1,6 @@
-ÕûºÏÄÚÈİ°üÀ¨(2016-07-14 update by windawings)
+æ•´åˆå†…å®¹åŒ…æ‹¬(2016-07-14 update by windawings)
 ------------------------------------------
-ÀÏD hosts(2016-07-03 update) (Í¬Ê±²ÉÓÃÁËÀÏDµÄwindowsÌæ»»½Å±¾)
+è€D hosts(2016-07-03 update) (åŒæ—¶é‡‡ç”¨äº†è€Dçš„windowsæ›¿æ¢è„šæœ¬)
 http://laod.cn/hosts/2016-google-hosts.html
 
 lennylxx ipv6-hosts(2016-6-28 update) 
@@ -9,14 +9,14 @@ https://github.com/lennylxx/ipv6-hosts
 liuker0x007 hosts(2016-07-13 update) 
 https://github.com/liuker0x007/hosts
 
-ÆäËû
-ÊµÔÚÊÇÍü¼Ç»òÕßËÑË÷²»µ½µÄÎŞÃû¹±Ï×Õß
+å…¶ä»–
+å®åœ¨æ˜¯å¿˜è®°æˆ–è€…æœç´¢ä¸åˆ°çš„æ— åè´¡çŒ®è€…
 
 
-HostsÎÄ¼şÎ»ÖÃ
+Hostsæ–‡ä»¶ä½ç½®
 ------------------------------------------
-Windows ÏµÍ³hostsÎ»ÓÚ C:\Windows\System32\drivers\etc\hosts
-Android(°²×¿)ÏµÍ³hostsÎ»ÓÚ /system/etc/hosts
-Mac(Æ»¹ûµçÄÔ)Í³hosts¸úLinuxÒ»ÑùÎ»ÓÚ /etc/hosts
-iPhone(iOS)ÏµÍ³hosts¸úLinux MacÒ»ÑùÎ»ÓÚ /etc/hosts
-LinuxÏµÍ³hostsÎ»ÓÚ /etc/hosts
+Windowsç³»ç»Ÿhostsä½äº C:\Windows\System32\drivers\etc\hosts
+Android(å®‰å“)ç³»ç»Ÿhostsä½äº /system/etc/hosts
+Mac(è‹¹æœç”µè„‘)ç»Ÿhostsè·ŸLinuxä¸€æ ·ä½äº /etc/hosts
+iPhone(iOS)ç³»ç»Ÿhostsè·ŸLinux Macä¸€æ ·ä½äº /etc/hosts
+Linuxç³»ç»Ÿhostsä½äº /etc/hosts
