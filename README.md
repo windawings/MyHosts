@@ -23,6 +23,13 @@ Android(安卓)系统hosts位于 /system/etc/hosts<br />
 Mac(苹果电脑)统hosts跟Linux一样位于 /etc/hosts<br />
 iPhone(iOS)系统hosts跟Linux Mac一样位于 /etc/hosts<br />
 Linux系统hosts位于 /etc/hosts<br />
+
+修改Hosts后生效方法（除了重启外）<br />
+---
+Windows: ipconfig /flushdns<br />
+Linux: sudo rcnscd restart<br />
+Linux systemd发行版: sudo systemctl restart NetworkManager<br />
+Mac OS X: sudo killall -HUP mDNSResponder<br />
 <br />
 
 Surge配置文件<br />
