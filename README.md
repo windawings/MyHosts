@@ -1,7 +1,7 @@
 整合内容包括(2016-07-14 update by windawings)<br />
 ---
 老D hosts(2016-07-03 update) (同时采用了老D的windows替换脚本)<br />
-http://laod.cn/hosts/2016-google-hosts.html<br />
+https://laod.org/hosts/2016-google-hosts.html<br />
 <br />
 <br />
 lennylxx ipv6-hosts(2016-6-28 update)<br />
