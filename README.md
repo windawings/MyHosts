@@ -25,15 +25,8 @@ iPhone(iOS)系统hosts跟Linux Mac一样位于 /etc/hosts<br />
 Linux系统hosts位于 /etc/hosts<br />
 <br />
 
-<p>
-	<br />
-	
-</p>
-<p>
-	Surge配置文件<br />
+Surge配置文件<br />
 ---
-	
-</p>
 <p>
 	测试中……
 </p>
@@ -46,13 +39,10 @@ Linux系统hosts位于 /etc/hosts<br />
 <p>
 	目前勉强可以看看Youtube视频，有待Surge更新扩大配置文件体积或添加正则支持
 </p>
-<p>
-	<br />
-	
-</p>
-屏蔽广告规则来自：<br />
+屏蔽广告规则来自<br />
 lhie1 Surge(2015-07-13 13:36 update)<br />
 https://github.com/lhie1/Surge<br />
----
 <br />
+<br />
+---
 对以上贡献数据源的作者表示感谢！
