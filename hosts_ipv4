@@ -20144,7 +20144,7 @@ fe80::1%lo0 localhost
 183.177.81.75 downloadr.flickr.com
 
 #IPv4 Github
-192.30.252.141 gist.github.com
+#192.30.252.141 gist.github.com
 
 #IPv4 TensorFlow
 64.233.188.121 www.tensorflow.org
