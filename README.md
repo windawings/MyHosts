@@ -1,14 +1,14 @@
-整合内容包括(2016-07-14 update by windawings)<br />
+整合内容包括(2016-10-04 update by windawings)<br />
 ---
-老D hosts(2016-07-03 update) (同时采用了老D的windows替换脚本)<br />
-https://laod.org/hosts/2016-google-hosts.html<br />
+racaljk hosts(2016-10-04 update)<br />
+https://github.com/racaljk/hosts<br />
 <br />
 <br />
-lennylxx ipv6-hosts(2016-6-28 update)<br />
+lennylxx ipv6-hosts(2016-9-26 update)<br />
 https://github.com/lennylxx/ipv6-hosts<br />
 <br />
 <br />
-liuker0x007 hosts(2016-07-13 update)<br />
+liuker0x007 hosts(2016-09-13 update)<br />
 https://github.com/liuker0x007/hosts<br />
 <br />
 <br />
