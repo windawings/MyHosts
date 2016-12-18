@@ -1,19 +1,19 @@
-整合内容包括(2016-11-2 update by windawings)<br />
+整合内容包括(2016-12-18 update by windawings)<br />
 ---
-racaljk hosts(2016-11-20 update)<br />
+racaljk hosts(2016-12-08 update)<br />
 https://github.com/racaljk/hosts<br />
 <br />
 <br />
-lennylxx ipv6-hosts(2016-9-26 update)<br />
+lennylxx ipv6-hosts(2016-12-05 update)<br />
 https://github.com/lennylxx/ipv6-hosts<br />
 <br />
 <br />
-liuker0x007 hosts(2016-11-18 update)<br />
-https://github.com/liuker0x007/hosts<br />
+// liuker0x007 hosts(2016-11-18 update)<br />
+// https://github.com/liuker0x007/hosts<br />
 <br />
 <br />
 其他<br />
-实在是忘记或者搜索不到的无名贡献者<br />
+// 实在是忘记或者搜索不到的无名贡献者<br />
 <br />
 <br />
 Hosts文件位置<br />
