@@ -354,6 +354,8 @@ fe80::1%lo0 localhost
 61.91.161.217 clients4.google.com
 61.91.161.217 clients5.google.com
 61.91.161.217 clients6.google.com
+61.91.161.217 classroom.google.com
+61.91.161.217 classroom.google.ca
 61.91.161.217 contributor.google.com
 61.91.161.217 dns.google.com
 61.91.161.217 desktop.google.com
@@ -3377,42 +3379,6 @@ fe80::1%lo0 localhost
 198.35.26.96 zh-yue.wikipedia.org
 198.35.26.96 zh.wikipedia.org
 198.35.26.96 zh.m.wikipedia.org
-
-#WordPress
-68.232.44.121 www.gravatar.com
-68.232.44.121 0.gravatar.com
-68.232.44.121 1.gravatar.com
-68.232.44.121 2.gravatar.com
-68.232.44.121 s.gravatar.com
-192.0.80.242 lb.gravatar.com
-192.0.80.242 secure.gravatar.com
-192.0.81.250 botd2.wordpress.com
-66.155.9.238 dashboard.wordpress.com
-66.155.9.238 en.blog.wordpress.com
-66.155.9.238 en.forums.wordpress.com
-66.155.9.238 forums.wordpress.com
-192.0.77.2 i0.wp.com
-192.0.77.2 i1.wp.com
-192.0.77.2 i2.wp.com
-66.155.9.238 lb.wordpress.com
-66.155.9.238 lucifr.wordpress.com
-192.0.81.250 r-login.wordpress.com
-68.232.44.119 s.stats.wordpress.com
-192.229.144.127 s.w.org
-68.232.44.111 s.wordpress.com
-68.232.44.111 s.wordpress.org
-68.232.44.111 s0.wp.com
-68.232.44.111 s1.wordpress.com
-68.232.44.111 s1.wp.com
-68.232.44.111 s2.wordpress.com
-68.232.44.111 s2.wp.com
-68.232.44.111 s3.wordpress.com
-66.155.9.238 stats.wordpress.com
-66.155.11.243 wordpress.com
-66.155.9.238 wpcom.wordpress.com
-66.155.9.238 zh.wordpress.com
-66.155.9.238 zh-cn.wordpress.com
-66.155.9.238 zh-sg.wordpress.com
 
 #XDA
 68.232.44.229 cdn.www.xda-developers.com
