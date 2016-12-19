@@ -3373,10 +3373,10 @@ fe80::1%lo0 localhost
 198.245.92.39 click.email.vimeo.com
 
 #Wikipedia
-91.198.174.192 wuu.wikipedia.org
-91.198.174.192 zh-yue.wikipedia.org
-91.198.174.192 zh.wikipedia.org
-91.198.174.192 zh.m.wikipedia.org
+198.35.26.96 wuu.wikipedia.org
+198.35.26.96 zh-yue.wikipedia.org
+198.35.26.96 zh.wikipedia.org
+198.35.26.96 zh.m.wikipedia.org
 
 #WordPress
 68.232.44.121 www.gravatar.com
@@ -3561,7 +3561,7 @@ fe80::1%lo0 localhost
 103.28.248.96 www.smartdnsproxy.com
 184.72.50.35 support.smartdnsproxy.com
 
-#apkpure
+#Apkpure
 104.20.82.194 apkpure.com
 104.20.82.194 a.apkpure.com
 104.20.82.194 download.apkpure.com
