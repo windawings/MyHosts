@@ -5,33 +5,33 @@ cd /d "%~dp0"
 :main
 cls
 color 2f
-echo ¡Ì¡Ì    ¡Ì¡Ì  ¡Ì¡Ì¡Ì      ¡Ì¡Ì¡Ì¡Ì  ¡Ì¡Ì¡Ì¡Ì¡Ì    ¡Ì¡Ì¡Ì¡Ì
-echo   ¡Ì    ¡Ì  ¡Ì      ¡Ì  ¡Ì      ¡Ì  ¡Ì  ¡Ì  ¡Ì  ¡Ì      ¡Ì
-echo   ¡Ì    ¡Ì  ¡Ì      ¡Ì  ¡Ì              ¡Ì      ¡Ì
-echo   ¡Ì¡Ì¡Ì¡Ì  ¡Ì      ¡Ì    ¡Ì¡Ì          ¡Ì        ¡Ì¡Ì
-echo   ¡Ì    ¡Ì  ¡Ì      ¡Ì        ¡Ì        ¡Ì            ¡Ì
-echo   ¡Ì    ¡Ì  ¡Ì      ¡Ì          ¡Ì      ¡Ì              ¡Ì
-echo   ¡Ì    ¡Ì  ¡Ì      ¡Ì  ¡Ì      ¡Ì      ¡Ì      ¡Ì      ¡Ì
-echo ¡Ì¡Ì    ¡Ì¡Ì  ¡Ì¡Ì¡Ì    ¡Ì¡Ì¡Ì¡Ì      ¡Ì¡Ì¡Ì    ¡Ì¡Ì¡Ì¡Ì
+echo âˆšâˆš    âˆšâˆš  âˆšâˆšâˆš      âˆšâˆšâˆšâˆš  âˆšâˆšâˆšâˆšâˆš    âˆšâˆšâˆšâˆš
+echo   âˆš    âˆš  âˆš      âˆš  âˆš      âˆš  âˆš  âˆš  âˆš  âˆš      âˆš
+echo   âˆš    âˆš  âˆš      âˆš  âˆš              âˆš      âˆš
+echo   âˆšâˆšâˆšâˆš  âˆš      âˆš    âˆšâˆš          âˆš        âˆšâˆš
+echo   âˆš    âˆš  âˆš      âˆš        âˆš        âˆš            âˆš
+echo   âˆš    âˆš  âˆš      âˆš          âˆš      âˆš              âˆš
+echo   âˆš    âˆš  âˆš      âˆš  âˆš      âˆš      âˆš      âˆš      âˆš
+echo âˆšâˆš    âˆšâˆš  âˆšâˆšâˆš    âˆšâˆšâˆšâˆš      âˆšâˆšâˆš    âˆšâˆšâˆšâˆš
 echo.----------------------------------------------------------- 
-echo.ÈçÓÐ360µÈ°²È«Èí¼þÌáÐÑ£¬Çë¹´Ñ¡ÔÊÐíºÍ²»ÔÙÌáÐÑ£¡
+echo.å¦‚æœ‰360ç­‰å®‰å…¨è½¯ä»¶æé†’ï¼Œè¯·å‹¾é€‰å…è®¸å’Œä¸å†æé†’ï¼
 echo.
-echo.¾¯¸æ£ºÖ´ÐÐ¸ÃÃüÁîÄãµÄÔ­hosts½«±»¸²¸Ç£¡
+echo.è­¦å‘Šï¼šæ‰§è¡Œè¯¥å‘½ä»¤ä½ çš„åŽŸhostså°†è¢«è¦†ç›–ï¼
 echo.
 color 2e
 echo.-----------------------------------------------------------
-echo.ÇëÑ¡ÔñÊ¹ÓÃ£º
+echo.è¯·é€‰æ‹©ä½¿ç”¨ï¼š
 echo.
-echo.         1.Ê¹ÓÃ´©Ç½host
+echo.         1.ä½¿ç”¨ç©¿å¢™host
 echo.
-echo.         2.Ê¹ÓÃ´©Ç½host(½öÊ¹ÓÃIPv4)
+echo.         2.ä½¿ç”¨ç©¿å¢™host(ä»…ä½¿ç”¨IPv4)
 echo.
-echo.         3.»Ö¸´³õÊ¼host(Çå³ýÌæ»»ºóµÄÄÚÈÝ½ö»Ö¸´127.0.0.1µØÖ·)	
+echo.         3.æ¢å¤åˆå§‹host(æ¸…é™¤æ›¿æ¢åŽçš„å†…å®¹ä»…æ¢å¤127.0.0.1åœ°å€)	
 echo.-----------------------------------------------------------
 
 if exist "%SystemRoot%\System32\choice.exe" goto Win7Choice
 
-set /p choice=ÇëÊäÈë:
+set /p choice=è¯·è¾“å…¥:
 
 echo.
  if %choice%==1 goto IPV6&IPV4
@@ -39,13 +39,13 @@ echo.
  if %choice%==3 goto CL
 	cls
     "set choice="
-    echo ÄúÊäÈëÓÐÎó£¬ÇëÖØÐÂÑ¡Ôñ¡£
+    echo æ‚¨è¾“å…¥æœ‰è¯¯ï¼Œè¯·é‡æ–°é€‰æ‹©ã€‚
 	ping 127.0.1 -n "2">nul
 	goto main
      goto end
 
 :Win7Choice
-choice /c 12 /n /m "ÇëÊäÈëÏàÓ¦Êý×Ö£º"
+choice /c 12 /n /m "è¯·è¾“å…¥ç›¸åº”æ•°å­—ï¼š"
 if errorlevel 3 goto CL
 if errorlevel 2 goto IPV4
 if errorlevel 1 goto IPV6&IPV4
@@ -59,9 +59,9 @@ copy "%~dp0hosts" "%SystemRoot%\System32\drivers\etc\hosts"
 ipconfig /flushdns
 echo.-----------------------------------------------------------
 echo.
-echo ¸²¸Ç±¾µØhosts²¢Ë¢ÐÂ±¾µØDNS½âÎö»º´æ³É¹¦!
+echo è¦†ç›–æœ¬åœ°hostså¹¶åˆ·æ–°æœ¬åœ°DNSè§£æžç¼“å­˜æˆåŠŸ!
 echo.
-echo ÏÖÔÚÈ¥´ò¿ªGoogle¡¢Twitter¡¢Facebook¡¢Gmail¡¢¹È¸èÑ§Êõ°É£¡
+echo çŽ°åœ¨åŽ»æ‰“å¼€Googleã€Twitterã€Facebookã€Gmailã€è°·æ­Œå­¦æœ¯å§ï¼
 echo.
 goto end
 
@@ -72,9 +72,9 @@ copy "%~dp0hosts_ipv4" "%SystemRoot%\System32\drivers\etc\hosts"
 ipconfig /flushdns
 echo.-----------------------------------------------------------
 echo.
-echo ¸²¸Ç±¾µØhosts(½öIPv4)²¢Ë¢ÐÂ±¾µØDNS½âÎö»º´æ³É¹¦!
+echo è¦†ç›–æœ¬åœ°hosts(ä»…IPv4)å¹¶åˆ·æ–°æœ¬åœ°DNSè§£æžç¼“å­˜æˆåŠŸ!
 echo.
-echo ÏÖÔÚÈ¥´ò¿ªGoogle¡¢Twitter¡¢Facebook¡¢Gmail¡¢¹È¸èÑ§Êõ°É£¡
+echo çŽ°åœ¨åŽ»æ‰“å¼€Googleã€Twitterã€Facebookã€Gmailã€è°·æ­Œå­¦æœ¯å§ï¼
 echo.
 goto end
 
@@ -82,10 +82,10 @@ goto end
 cls
 color 2f
 @echo 127.0.0.1 localhost > %SystemRoot%\System32\drivers\etc\hosts
-echo ¹§Ï²Äú£¬hosts»Ö¸´³õÊ¼³É¹¦!
+echo æ­å–œæ‚¨ï¼Œhostsæ¢å¤åˆå§‹æˆåŠŸ!
 echo.
 goto end
 
 :end
-echo Çë°´ÈÎÒâ¼üÍË³ö¡£
+echo è¯·æŒ‰ä»»æ„é”®é€€å‡ºã€‚
 @Pause>nul

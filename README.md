@@ -1,6 +1,6 @@
-整合内容包括(2016-12-19 update by windawings)<br />
+整合内容包括(2016-12-29 update by windawings)<br />
 ---
-racaljk hosts(2016-12-18 update)<br />
+racaljk hosts(2016-12-25 update)<br />
 https://github.com/racaljk/hosts<br />
 <br />
 <br />
@@ -8,8 +8,8 @@ lennylxx ipv6-hosts(2016-12-15 update)<br />
 https://github.com/lennylxx/ipv6-hosts<br />
 <br />
 <br />
-// liuker0x007 hosts(2016-11-18 update)<br />
-// https://github.com/liuker0x007/hosts<br />
+liuker hosts(2016-11-9 update)<br />
+https://github.com/liuker/hosts<br />
 <br />
 <br />
 Hosts文件位置<br />
@@ -34,10 +34,7 @@ Surge配置文件<br />
 	测试中……Fiddler代理用于抓包
 </p>
 <p>
-	目前仅整合IPv4部分资源，经测试[Host]太大Surge将无法正常启动
-</p>
-<p>
-	尝试使用通配符缩小体积但缩小后Youtube视频观看异常，作罢
+	目前仅整合IPv4部分资源
 </p>
 <p>
 	目前把racaljk hosts整合了进去，Google、Facebook、Twitter啥的应该还能上，Youtube基本只能看看封面
@@ -48,4 +45,4 @@ https://github.com/lhie1/Surge<br />
 <br />
 <br />
 ---
-对以上贡献数据源的作者表示感谢！
+对以上开源数据的作者表示感谢！
