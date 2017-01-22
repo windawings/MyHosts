@@ -1,4 +1,4 @@
-#Localhost
+﻿#Localhost
 127.0.0.1 localhost
 ::1 localhost
 fe80::1%lo0 localhost
@@ -91,54 +91,54 @@ fe80::1%lo0 localhost
 23.65.183.218 publishers.disqus.com
 
 #Dropbox
-110.4.24.178	db.tt
-110.4.24.178	dropbox.com
-110.4.24.178	m.dropbox.com
-110.4.24.178	www.v.dropbox.com
-110.4.24.178	dl-debug.dropbox.com
-110.4.24.178	www.dropbox.com
-52.85.76.60	linux.dropbox.com
-108.160.172.225	d.dropbox.com
-108.160.172.225	d.v.dropbox.com
-162.125.18.132	dl-doc.dropbox.com
-108.160.172.225	api-d.dropbox.com
-108.160.172.225	api.dropboxapi.com
-108.160.172.225	api.dropbox.com
-108.160.172.225	api.v.dropbox.com
-108.160.172.225	api-notify.dropbox.com
-108.160.172.225	www.dropboxstatic.com
-104.16.100.29	cfl.dropboxstatic.com
-108.160.172.229	dbxlocal.dropboxstatic.com
-199.47.217.36	api-content.dropbox.com
-199.47.217.36	api-content-photos.dropbox.com
-108.160.172.207	photos.dropbox.com
-162.125.34.129	bolt.dropbox.com
-162.125.17.129	photos-thumb.dropbox.com
-162.125.17.129	photos-thumb.x.dropbox.com
-199.47.217.97	block.dropbox.com
-199.47.217.97	block.v.dropbox.com
-54.230.214.100	cf.dropboxstatic.com
-54.192.108.33	client-cf.dropbox.com
-45.58.69.38	dl.dropbox.com
-45.58.70.5	dl-web.dropbox.com
-45.58.69.37	dl.dropboxusercontent.com
-162.125.18.2	photos-1.dropbox.com
-162.125.18.2	photos-2.dropbox.com
-162.125.18.2	photos-3.dropbox.com
-162.125.18.2	photos-4.dropbox.com
-162.125.18.2	photos-5.dropbox.com
-162.125.18.2	photos-6.dropbox.com
-54.192.213.118	status.dropbox.com
-54.192.213.118	marketing.dropbox.com
-54.192.213.118	blogs.dropbox.com
-54.192.213.118	forums.dropbox.com
-54.192.213.118	snapengage.dropbox.com
-162.125.32.129	notify.dropbox.com
-108.160.172.236	client-lb.dropbox.com
-108.160.172.236	client-web.dropbox.com
-108.160.172.236	client.dropbox.com
-108.160.172.236	client.v.dropbox.com
-108.160.172.227	log.getdropbox.com
+110.4.24.178 db.tt
+110.4.24.178 dropbox.com
+110.4.24.178 m.dropbox.com
+110.4.24.178 www.v.dropbox.com
+110.4.24.178 dl-debug.dropbox.com
+110.4.24.178 www.dropbox.com
+52.85.76.60 linux.dropbox.com
+108.160.172.225 d.dropbox.com
+108.160.172.225 d.v.dropbox.com
+162.125.18.132 dl-doc.dropbox.com
+108.160.172.225 api-d.dropbox.com
+108.160.172.225 api.dropboxapi.com
+108.160.172.225 api.dropbox.com
+108.160.172.225 api.v.dropbox.com
+108.160.172.225 api-notify.dropbox.com
+108.160.172.225 www.dropboxstatic.com
+104.16.100.29 cfl.dropboxstatic.com
+108.160.172.229 dbxlocal.dropboxstatic.com
+199.47.217.36 api-content.dropbox.com
+199.47.217.36 api-content-photos.dropbox.com
+108.160.172.207 photos.dropbox.com
+162.125.34.129 bolt.dropbox.com
+162.125.17.129 photos-thumb.dropbox.com
+162.125.17.129 photos-thumb.x.dropbox.com
+199.47.217.97 block.dropbox.com
+199.47.217.97 block.v.dropbox.com
+54.230.214.100 cf.dropboxstatic.com
+54.192.108.33 client-cf.dropbox.com
+45.58.69.38 dl.dropbox.com
+45.58.70.5 dl-web.dropbox.com
+45.58.69.37 dl.dropboxusercontent.com
+162.125.18.2 photos-1.dropbox.com
+162.125.18.2 photos-2.dropbox.com
+162.125.18.2 photos-3.dropbox.com
+162.125.18.2 photos-4.dropbox.com
+162.125.18.2 photos-5.dropbox.com
+162.125.18.2 photos-6.dropbox.com
+54.192.213.118 status.dropbox.com
+54.192.213.118 marketing.dropbox.com
+54.192.213.118 blogs.dropbox.com
+54.192.213.118 forums.dropbox.com
+54.192.213.118 snapengage.dropbox.com
+162.125.32.129 notify.dropbox.com
+108.160.172.236 client-lb.dropbox.com
+108.160.172.236 client-web.dropbox.com
+108.160.172.236 client.dropbox.com
+108.160.172.236 client.v.dropbox.com
+108.160.172.227 log.getdropbox.com
 
 #Facebook
 157.240.0.17 fb.me
@@ -3381,12 +3381,12 @@ fe80::1%lo0 localhost
 72.21.91.96 va.sndcdn.com
 
 #Startpage&Ixquick
-43.249.39.38	startpage.com
-43.249.39.38	www.startpage.com
-43.249.39.49	www.ixquick.com
-43.249.39.49	ixquick.com
-37.0.89.56	support.startpage.com
-37.0.89.57	support.ixquick.com
+43.249.39.38 startpage.com
+43.249.39.38 www.startpage.com
+43.249.39.49 www.ixquick.com
+43.249.39.49 ixquick.com
+37.0.89.56 support.startpage.com
+37.0.89.57 support.ixquick.com
 
 #Vimeo
 104.156.85.217 vimeo.com
