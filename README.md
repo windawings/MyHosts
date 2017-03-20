@@ -1,10 +1,10 @@
-﻿整合内容包括(2017-3-2 update by windawings)<br />
+﻿整合内容包括(2017-3-20 update by windawings)<br />
 ---
-racaljk hosts(2017-3-1 update)<br />
+racaljk hosts(2017-3-15 update)<br />
 https://github.com/racaljk/hosts<br />
 <br />
 <br />
-lennylxx ipv6-hosts(2016-12-15 update)<br />
+lennylxx ipv6-hosts(2017-3-20 update)<br />
 https://github.com/lennylxx/ipv6-hosts<br />
 <br />
 <br />
