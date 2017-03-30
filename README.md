@@ -1,6 +1,6 @@
-﻿整合内容包括(2017-3-20 update by windawings)<br />
+﻿整合内容包括(2017-3-31 update by windawings)<br />
 ---
-racaljk hosts(2017-3-15 update)<br />
+racaljk hosts(2017-3-30 update)<br />
 https://github.com/racaljk/hosts<br />
 <br />
 <br />
