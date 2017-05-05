@@ -1,4 +1,4 @@
-﻿整合内容包括(2017-3-31 update by windawings)<br />
+﻿整合内容包括(2017-5-5 update)<br />
 ---
 racaljk hosts(2017-5-5 update)<br />
 https://github.com/racaljk/hosts<br />
@@ -42,13 +42,11 @@ Surge配置文件<br />
 屏蔽广告规则来自<br />
 lhie1 Surge(2016-12-17 update)<br />
 https://github.com/lhie1/Surge<br />
-<br />
-<br />
 ---
-其实有IPv6的同学可以选择以下IPv6 DNS作为域名解析:<br />
-2620:0:ccc::2 (CISCO OpenDNS)<br />
-2620:0:ccd::2 (CISCO OpenDNS)<br />
-2001:470:20::2 (UnKnown)<br />
-2001:4860:4860::8888 (Google)<br />
-2001:4860:4860::8844 (Google)<br />
-对以上开源数据的作者表示感谢！
+<p>其实有IPv6的同学可以选择以下IPv6 DNS作为域名解析:</p>
+<p>2620:0:ccc::2 (CISCO OpenDNS)</p>
+<p>2620:0:ccd::2 (CISCO OpenDNS)</p>
+<p>2001:470:20::2 (UnKnown)</p>
+<p>2001:4860:4860::8888 (Google)</p>
+<p>2001:4860:4860::8844 (Google)</p>
+<p>对以上开源数据的作者表示感谢！</p>
