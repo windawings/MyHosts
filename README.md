@@ -1,6 +1,6 @@
 ﻿整合内容包括(2017-3-31 update by windawings)<br />
 ---
-racaljk hosts(2017-3-30 update)<br />
+racaljk hosts(2017-5-5 update)<br />
 https://github.com/racaljk/hosts<br />
 <br />
 <br />
@@ -38,11 +38,17 @@ Surge配置文件<br />
 </p>
 <p>
 	目前把racaljk hosts整合了进去，Google、Facebook、Twitter啥的应该还能上，Youtube基本只能看看封面
-</p>
+</p><br />
 屏蔽广告规则来自<br />
 lhie1 Surge(2016-12-17 update)<br />
 https://github.com/lhie1/Surge<br />
 <br />
 <br />
 ---
+其实有IPv6的同学可以选择以下IPv6 DNS作为域名解析:<br />
+2620:0:ccc::2 (CISCO OpenDNS)<br />
+2620:0:ccd::2 (CISCO OpenDNS)<br />
+2001:470:20::2 (UnKnown)<br />
+2001:4860:4860::8888 (Google)<br />
+2001:4860:4860::8844 (Google)<br />
 对以上开源数据的作者表示感谢！
