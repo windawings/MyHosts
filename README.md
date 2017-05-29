@@ -1,10 +1,10 @@
-﻿整合内容包括(2017-5-5 update)  
+﻿整合内容包括(2017-5-29 update)  
 ---
-racaljk hosts(2017-5-5 update)  
+racaljk hosts(2017-5-29 update)  
 https://github.com/racaljk/hosts  
   
   
-lennylxx ipv6-hosts(2017-3-20 update)  
+lennylxx ipv6-hosts(2017-5-25 update)  
 https://github.com/lennylxx/ipv6-hosts  
   
   
@@ -35,7 +35,7 @@ Surge配置文件
 	目前把racaljk hosts整合了进去，Google、Facebook、Twitter啥的应该还能上，Youtube基本只能看看封面
 ---
 屏蔽广告规则来自  
-lhie1 Surge(2016-12-17 update)  
+lhie1 Surge(2017-5-29 update)  
 https://github.com/lhie1/Surge
   
 
