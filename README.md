@@ -1,10 +1,10 @@
-﻿整合内容包括(2017-5-29 update)  
+﻿整合内容包括(2017-6-19 update)  
 ---
-racaljk hosts(2017-5-29 update)  
+racaljk hosts(2017-6-19 update)  
 https://github.com/racaljk/hosts  
   
   
-lennylxx ipv6-hosts(2017-5-25 update)  
+lennylxx ipv6-hosts(2017-6-14 update)  
 https://github.com/lennylxx/ipv6-hosts  
   
   
