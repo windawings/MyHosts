@@ -1,10 +1,10 @@
-﻿整合内容包括(2017-6-19 update)  
+﻿整合内容包括(2017-07-25 update)  
 ---
-racaljk hosts(2017-6-19 update)  
+racaljk hosts(2017-07-21 update)  
 https://github.com/racaljk/hosts  
   
   
-lennylxx ipv6-hosts(2017-6-14 update)  
+lennylxx ipv6-hosts(2017-07-06 update)  
 https://github.com/lennylxx/ipv6-hosts  
   
   
@@ -31,7 +31,6 @@ Hosts文件位置
 Surge配置文件  
 ---
 	测试中……Fiddler代理用于抓包
-	目前仅整合IPv4部分资源
 	目前把racaljk hosts整合了进去，Google、Facebook、Twitter啥的应该还能上，Youtube基本只能看看封面
 ---
 屏蔽广告规则来自  
