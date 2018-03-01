@@ -34,7 +34,7 @@ Surge配置文件
 	目前把racaljk hosts整合了进去，Google、Facebook、Twitter啥的应该还能上，Youtube基本只能看看封面
 ---
 屏蔽广告规则来自  
-lhie1 Surge(2017-6-23 update)  
+lhie1 Surge(2018-2-28 update)  
 https://github.com/lhie1/Surge
   
 
