@@ -29,7 +29,7 @@
 
 ## 屏蔽广告规则来自
 ---
--   [lhie1 Surge](https://github.com/lhie1/Surge)(2018-2-28 update)
+-   [lhie1 Surge](https://github.com/lhie1/Surge)(2018-3-16 update)
   
 # IPv6 DNS  
 ---
