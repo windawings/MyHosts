@@ -144,7 +144,6 @@
 192.229.173.251 quests.armorgames.com
 #Armorgames
 
-
 #bandwagonhost.com
 104.20.6.63 bandwagonhost.com
 #bandwagonhost.com
@@ -262,6 +261,7 @@
 104.16.80.166 c.disquscdn.com
 151.101.26.49 a.disquscdn.com
 #Disqus
+
 #Facebook
 157.240.7.38 www.facebook.com
 157.240.7.38 fb.me
@@ -467,7 +467,7 @@
 216.239.32.67 26644787.googleapis.com
 #Google Apis
 
-#Googleapis:storage
+#Googleapis storage
 172.217.24.16 storage.googleapis.com
 172.217.4.16 commondatastorage.googleapis.com
 172.217.4.144 content-storage.googleapis.com
@@ -477,11 +477,11 @@
 172.217.4.176 chromedriver.storage.googleapis.com
 172.217.5.112 static.panoramio.com.storage.googleapis.com
 172.217.5.208 storage-download.googleapis.com
-#Googleapis:storage
+#Googleapis storage
 
-#Google:A-GPS
+#Google A-GPS
 64.233.171.192 supl.google.com
-#Google:A-GPS
+#Google A-GPS
 
 #Google Blogger
 172.217.27.169 www.blogger.com
@@ -728,10 +728,10 @@
 216.58.200.23 google.com.vn
 #Google Country
 
-#Google Chrome/Chromium
+#Google Chrome Chromium
 172.217.25.220 chrome.google.com
 74.125.248.73 git.chromium.org
-#Google Chrome/Chromium
+#Google Chrome Chromium
 
 #Google Search Country
 216.58.200.24 www.goo.gl
@@ -1119,7 +1119,7 @@
 172.217.3.207 uploadsj.clients.google.com
 #Google Service
 
-#Google Service:Ncr
+#Google Service Ncr
 216.58.199.109 accounts.google.com
 108.177.120.94 assistant.google.com
 108.177.120.94 books.google.com
@@ -1142,9 +1142,9 @@
 108.177.120.94 translate.google.com
 108.177.120.94 toolbarqueries.google.com
 64.15.126.90 scholar.google.com
-#Google Service:Ncr
+#Google Service Ncr
 
-#Google Service:China Hongkong
+#Google Service China Hongkong
 108.177.120.94 accounts.google.com.hk
 108.177.120.94 assistant.google.com.hk
 108.177.120.94 books.google.com.hk
@@ -1172,9 +1172,9 @@
 108.177.120.94 translate.google.com.hk
 108.177.120.94 toolbarqueries.google.com.hk
 108.177.120.94 scholar.google.com.hk
-#Google Service:China Hongkong
+#Google Service China Hongkong
 
-#Google Service:China Taiwan
+#Google Service China Taiwan
 108.177.120.94 accounts.google.com.tw
 108.177.120.94 assistant.google.com.tw
 108.177.120.94 books.google.com.tw
@@ -1201,9 +1201,9 @@
 108.177.120.94 translate.google.com.tw
 108.177.120.94 toolbarqueries.google.com.tw
 108.177.120.94 scholar.google.com.tw
-#Google Service:China Taiwan
+#Google Service China Taiwan
 
-#Google Service:Docs
+#Google Service Docs
 172.217.31.96 docs.google.com
 172.217.3.207 upload.docs.google.com
 108.177.119.132 doc-00-00-docs.googleusercontent.com
@@ -2247,22 +2247,22 @@
 108.177.119.132 doc-10-cs-docs.googleusercontent.com
 108.177.119.132 doc-14-cs-docs.googleusercontent.com
 172.217.31.103 browserchannel-docs.l.google.com
-#Google Service:Docs
+#Google Service Docs
 
 #Google GoLang
 108.177.120.94 golang.org
 108.177.120.94 golang-consa.l.google.com
 #Google GoLang
 
-#Google Service:Google Play
+#Google Service Google Play
 209.85.235.200 services.googleapis.cn
 64.15.126.86 play.google.com
 64.15.126.86 android.clients.google.com
 108.177.121.201 play.googleapis.com
 203.208.39.99 alt7-mtalk.google.com
-#Google Service:Google Play
+#Google Service Google Play
 
-#Google:gcm
+#Google gcm
 108.177.97.188 mobile-gtalk.l.google.com
 108.177.97.188 mtalk.google.com
 108.177.97.188 mtalk4.google.com
@@ -2272,9 +2272,9 @@
 108.177.97.188 gcm-preprod.l.google.com
 108.177.97.188 gcm-preprod.googleapis.com
 216.58.199.10 gcm-http.googleapis.com
-#Google:gcm
+#Google gcm
 
-#Google:ghs
+#Google ghs
 216.239.38.21 ghs.google.com
 216.239.38.21 ghs46.google.com
 216.239.38.21 ghs.l.google.com
@@ -2312,12 +2312,12 @@
 216.239.38.21 material.io
 216.239.38.21 www.autodraw.com
 172.217.4.179 tools.android.com
-#Google:ghs
+#Google ghs
 
-#Google:Made the code for girls Start
+#Google Made the code for girls Start
 216.239.38.21 madewithcode.com
 216.239.38.21 www.madewithcode.com
-#Google:Made the code for girls Start
+#Google Made the code for girls Start
 
 #Google Mashups
 172.217.27.4 googlemashups.com
@@ -2329,20 +2329,20 @@
 216.239.32.27 www.certificate-transparency.org
 #Google Misc
 
-#Google:stun Server
+#Google stun Server
 64.233.177.127 stun.l.google.com
 64.233.177.127 alt1.stun.l.google.com
 64.233.177.127 alt2.stun.l.google.com
 64.233.177.127 alt3.stun.l.google.com
 64.233.177.127 alt4.stun.l.google.com
 64.233.177.127 alt5.stun.l.google.com
-#Google:stun Server
+#Google stun Server
 
-#Google:npf base
+#Google npf base
 172.217.31.179 1d73367a8bc4b849f5286dc68416acfd.baas.nintendo.com
 216.239.38.21 220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
 216.239.34.21 3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
-#Google:npf base
+#Google npf base
 
 #Googleusercontent
 108.177.127.197 www.googleusercontent.com
@@ -2998,6 +2998,7 @@
 34.233.63.45 prod-chatman-ancillary-us-east-1.pscp.tv
 35.160.28.174 prod-chatman-ancillary-us-west-2.pscp.tv
 #Periscope
+
 #Psiphon
 54.192.75.124 psiphon3.com
 54.192.75.50 www.psiphon3.com
