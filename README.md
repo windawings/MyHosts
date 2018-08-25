@@ -25,7 +25,6 @@
 # Surge配置文件  
 ---
 &emsp;&emsp;测试中……Fiddler代理用于抓包<br/>
-&emsp;&emsp;目前把racaljk hosts整合了进去，Google、Facebook、Twitter啥的应该还能上，Youtube基本只能看看封面
 
 ## 屏蔽广告规则来自
 ---
