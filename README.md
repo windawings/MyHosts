@@ -1,8 +1,8 @@
-﻿# 整合内容包括(2018-08-25 update)  
+﻿# 整合内容包括(2018-12-23 update)  
 ---
--   [googlehosts hosts](https://github.com/googlehosts/hosts)(2018-08-06 update)
+-   [googlehosts hosts](https://github.com/googlehosts/hosts)(2018-12-19 update)
 -   [racaljk hosts](https://github.com/racaljk/hosts)(2017-07-21 update)(已停止更新) 
--   [lennylxx ipv6-hosts](https://github.com/lennylxx/ipv6-hosts)(2018-08-20 update)
+-   [lennylxx ipv6-hosts](https://github.com/lennylxx/ipv6-hosts)(2018-12-10 update)
 -   [liuker hosts](https://github.com/laucyun/hosts)(2016-11-9 update)(已停止更新) 
 
 # Hosts文件位置
